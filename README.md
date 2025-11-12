@@ -77,13 +77,8 @@
 
 ### 📊 Estatísticas
 
- <img 
-    align = "left"
-    alt = "GITHUBSTATS"
-    src="https://github-readme-stats.vercel.app/api?username=SauloFons&show_icons=true&theme=tokyonight&locale=pt-br"
-    height = "200"
-    style = "padding-right : 10px;"
-/>
+ 
+
  <img 
     align = "left"
     alt = "GITHUBSTATS"
