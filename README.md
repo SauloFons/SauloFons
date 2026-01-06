@@ -71,20 +71,4 @@
     width = "35px"
     style = "padding-right : 10px;"
 />
-
-<br>
-<br>
-
-### 📊 Estatísticas
-
- 
-
- <img 
-    align = "left"
-    alt = "GITHUBSTATS"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloFons&theme=tokyonight&locale=pt-br&custom_title=Tecnologias"
-    height = "200"
-    style = "padding-right : 10px;"
-/>
-
           
